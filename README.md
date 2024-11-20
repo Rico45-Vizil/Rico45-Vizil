@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rico45-Vizil
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Android development
-- 💞️ I’m looking to collaborate on AI, Web, Javascript, kotlin and coding.
-- 📫 How to reach me tarankumar45@gmail.com
+- 👋 Hi, I’m Taran 
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning data analysis.
+- 💞️ I’m looking to collaborate on AI, Web development, and coding in C, C++ and Python.
+- 📫 How to reach me taranwork221@gmail.com
 
 <!---
 Rico45-Vizil/Rico45-Vizil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
